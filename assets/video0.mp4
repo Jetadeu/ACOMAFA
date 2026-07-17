@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Error>
+    <Code>AccessDenied</Code>
+    <Message>B2 Storage API(s) not Enabled</Message>
+</Error>
